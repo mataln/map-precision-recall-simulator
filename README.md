@@ -3,4 +3,4 @@ A toy markov model that produces plots that look somewhat like the precision-rec
 
 Here's what the output looks like:
 
-!(precision_recall_trace.png)
+![oo](precision_recall_trace.png)
